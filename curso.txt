@@ -1,0 +1,14 @@
+#git init
+inicia git no projeto
+
+#git ls-files
+mostra os arquivos que estão sendo controlados
+
+#git status
+mostra as alterações
+
+#git add 
+adiciona arquivos novos e arquivos alterados
+
+#git commit
+gravar as alterações no repositorio
